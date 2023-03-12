@@ -1,5 +1,6 @@
+  <img src='/img/pic.png' align="center" height='150px' width="150px">
+
 <h1 align="center">Hi 👋, I'm Jayant Dhakad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jake8989" alt="jake8989" /></a> </p>
 
@@ -13,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-  <img src='/img/pic.png' align="center" style='height:150px,width:150px'>
 <a href="https://linkedin.com/in/jayant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayant kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/jayant_dhakad.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayant_dhakad.1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jaayeshhh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaayeshhh" height="30" width="40" /></a>
