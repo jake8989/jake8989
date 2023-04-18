@@ -1,11 +1,11 @@
 <p style="text-align:center"><img src='https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif' align="center" height='150px' width="150px"></p>
 
-<h1 align="center">Hi 👋, I'm Jayant Dhakad</h1>
+<h1 align="center">Hi 👋, I'm jayantDhakad</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jake8989" alt="jake8989" /></a> </p>
 - 🔭  I’m currently Second yr student at NIT Bhopal CSE'25
 
-- 🌱 I’m currently learning **Python, Next Js and Express**
+- 🌱 I’m currently learning **Python and Backend Development**
 
 - 💬 Ask me about **react, TypeScript**
 
