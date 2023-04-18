@@ -1,4 +1,4 @@
-<p style="text-align:center"><img src='/img/pic.png' align="center" height='150px' width="150px"></p>
+<p style="text-align:center"><img src='https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif' align="center" height='150px' width="150px"></p>
 
 <h1 align="center">Hi 👋, I'm Jayant Dhakad</h1>
 
