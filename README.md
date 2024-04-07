@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently pre-final yr student at NIT Bhopal CSE'25.<br>🌱 I’m currently learning Ty-GraphQL and ML<br>💬 feel free to ask...<br>⚡ Fun fact 🔥
+🔭 I’m  pre-final yr student at NIT Bhopal CSE'25.<br>🌱 I’m currently learning Ty-GraphQL and ML<br>💬 feel free to ask...<br>⚡ Fun fact 🔥
 
 # 💻 Tech Stack:
 
